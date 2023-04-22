@@ -1,1 +1,1 @@
-# Solidity
+# Solidity Beginner Assessment
