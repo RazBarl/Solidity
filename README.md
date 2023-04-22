@@ -50,6 +50,7 @@ contract MyToken
 }
 
 # Author
-National Teachers College
+NTC
+
 Razelle Brian L. Arlos
 8214515@ntc.edu.ph
